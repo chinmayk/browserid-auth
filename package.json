@@ -1,0 +1,18 @@
+{
+  "author": "Chinmay Kulkarni (http://www.stanford.edu/~chinmay)",
+  "name": "browserid-auth",
+  "description": "A quick and dirty way to implement browserid authentication in your express app.",
+  "version": "0.0.0",
+  "homepage": "http://www.stanford.edu/~chinmay/browserid",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chinmayk/browserid-auth.git"
+  },
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
